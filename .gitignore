@@ -1,7 +1,7 @@
 *.pyc
 *~
 __pycache__
-speech
 db.sqlite3
+speech
 /static
 .DS_Store
